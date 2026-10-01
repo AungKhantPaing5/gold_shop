@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.dump
+*.tar.gz
+*.zip
+*.bak
+*.backup*
+*.before_*
+*.stock-backup
+.env
+.vscode/
+.idea/
+filestore/
+backups/
+odoo.conf
